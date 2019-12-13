@@ -29,7 +29,7 @@ library(readxl)
 library(shinythemes)
 library(dashboardthemes)
 
-image <- "C:/Users/02752345259/Downloads/hospital-solid.svg"
+image <- "data/hospital-solid.svg"
 
 library(colourpicker)
 library(shinycssloaders)
